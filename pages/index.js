@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>
           [Hello, I’m <span id="name">Jan Poonthong</span>. I’m a student at Assumption
           University in Thailand. You can contact me on{" "}
-          <a href="https://twitter.com/RonBaw/">Twitter</a>.]
+          <a href="https://twitter.com/jan__poonthong">Twitter</a>.]
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
