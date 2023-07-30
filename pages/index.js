@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          [Hello, I’m <span id="name">Jan Poonthong</span>. I’m a student at Assumption
-          University in Thailand. You can contact me on{" "}
+          [Hello, I’m <span id="name">Jan Poonthong</span>. I’m a student at
+          Assumption University in Thailand. You can contact me on{" "}
           <a href="https://twitter.com/jan__poonthong">Twitter</a>.]
         </p>
       </section>
@@ -37,6 +37,7 @@ export default function Home({ allPostsData }) {
               </Link>
               <br />
               <small className={utilStyles.lightText}>
+                {console.log(date, title)}
                 <Date dateString={date} />
               </small>
             </li>

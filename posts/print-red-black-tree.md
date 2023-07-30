@@ -1,4 +1,7 @@
-# print-red-black-tree
+---
+title: "Print Red Black Tree"
+date: "2023-07-30"
+---
 
 This is source code debugging, print, console, visualizing red black tree in Python
 
