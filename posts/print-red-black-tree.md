@@ -90,6 +90,7 @@ def print_tree(self, val="key", left="left", right="right"):
 ```
 
 Output:
+
 ```
                            ___________5(BLACK)___________________________
                           /                                              \
