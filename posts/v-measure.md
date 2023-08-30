@@ -22,6 +22,7 @@ By combining both homogeneity and completeness, the V-Measure captures both the 
 In summary, the V-Measure is a metric for assessing the quality of a clustering solution by considering the balance between homogeneity and completeness. It provides a way to measure the effectiveness of a clustering algorithm in grouping similar data points together while also capturing the representation of true classes within the clusters.
 
 **What is class membership?**
+
 Class membership refers to the association of a data point with a specific class or category in a classification problem. In a classification task, you are trying to assign data points to predefined classes based on their features or attributes. Class membership indicates which class a particular data point belongs to.
 
 For example, consider a binary classification problem where you're building a spam email filter. You have two classes: "spam" and "not spam" (also known as "ham"). Each email in your dataset needs to be classified into one of these classes. The class membership for each email indicates whether it's considered spam or not.
