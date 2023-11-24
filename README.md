@@ -1,3 +1,3 @@
 # Blogger
 
-Free to read: https://learn-nextjs-six-rose.vercel.app/
+Free to read: janpoonthong-blog.vercel.app/ 
